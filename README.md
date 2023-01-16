@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AvinsGolakiya
 - 👀 I’m interested in blockchain developement
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently in computer science honours and learning web development as side hustle!
 - 💞️ I’m looking to collaborate on blockchain projects
 - 📫 📧@avinsgolakiya@gmail.com
 
